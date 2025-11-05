@@ -1,6 +1,3 @@
-# -Vrinda-Store-Annual-Sales-Analysis-
-
-
 # 🛍️ Vrinda Store Annual Sales Analysis 
 
 
